@@ -103,6 +103,36 @@
       <property role="20kJfa" value="currentReciepeSet" />
       <ref role="20lvS9" node="27rUFnyM8z9" resolve="ReciepeSet" />
     </node>
+    <node concept="1TJgyi" id="64ymvO2ynuA" role="1TKVEl">
+      <property role="IQ2nx" value="6999255714091333542" />
+      <property role="TrG5h" value="minimumNutrients" />
+      <ref role="AX2Wp" node="27rUFnyM8$5" resolve="double" />
+    </node>
+    <node concept="1TJgyi" id="64ymvO2ynuC" role="1TKVEl">
+      <property role="IQ2nx" value="6999255714091333544" />
+      <property role="TrG5h" value="maximumCalories" />
+      <ref role="AX2Wp" node="27rUFnyM8$5" resolve="double" />
+    </node>
+    <node concept="1TJgyi" id="64ymvO2ynuF" role="1TKVEl">
+      <property role="IQ2nx" value="6999255714091333547" />
+      <property role="TrG5h" value="minimumProtein" />
+      <ref role="AX2Wp" node="27rUFnyM8$5" resolve="double" />
+    </node>
+    <node concept="1TJgyi" id="64ymvO2ynuJ" role="1TKVEl">
+      <property role="IQ2nx" value="6999255714091333551" />
+      <property role="TrG5h" value="minimumCarbohydrid" />
+      <ref role="AX2Wp" node="27rUFnyM8$5" resolve="double" />
+    </node>
+    <node concept="1TJgyi" id="64ymvO2ynuO" role="1TKVEl">
+      <property role="IQ2nx" value="6999255714091333556" />
+      <property role="TrG5h" value="maximumCarbohydrid" />
+      <ref role="AX2Wp" node="27rUFnyM8$5" resolve="double" />
+    </node>
+    <node concept="1TJgyi" id="64ymvO2ynuU" role="1TKVEl">
+      <property role="IQ2nx" value="6999255714091333562" />
+      <property role="TrG5h" value="maximumFat" />
+      <ref role="AX2Wp" node="27rUFnyM8$5" resolve="double" />
+    </node>
   </node>
   <node concept="1TIwiD" id="4uh5w9VL6AX">
     <property role="EcuMT" value="5156927248238143933" />
@@ -156,6 +186,11 @@
       <property role="20kJfa" value="elements" />
       <property role="20lbJX" value="0..n" />
       <ref role="20lvS9" node="27rUFnyM8z$" resolve="TimedElement" />
+    </node>
+    <node concept="1TJgyi" id="64ymvO2zI7E" role="1TKVEl">
+      <property role="IQ2nx" value="6999255714091688426" />
+      <property role="TrG5h" value="generate" />
+      <ref role="AX2Wp" to="tpck:fKAQMTB" resolve="boolean" />
     </node>
   </node>
   <node concept="PlHQZ" id="27rUFnyM8z$">
@@ -315,7 +350,7 @@
       <property role="20lmBu" value="reference" />
       <property role="20kJfa" value="entry" />
       <property role="20lbJX" value="1" />
-      <ref role="20lvS9" node="27rUFnyM8zD" resolve="AtomicReciepe" />
+      <ref role="20lvS9" node="27rUFnyM8zE" resolve="Reciepe" />
     </node>
   </node>
   <node concept="AxPO7" id="27rUFnyM8zN">
@@ -335,6 +370,10 @@
       <property role="1uS6qo" value="SOUR" />
       <property role="1uS6qv" value="SOUR" />
     </node>
+    <node concept="M4N5e" id="64ymvO2AY_P" role="M5hS2">
+      <property role="1uS6qo" value="DOUBLESOUR" />
+      <property role="1uS6qv" value="DOUBLESOUR" />
+    </node>
   </node>
   <node concept="AxPO7" id="27rUFnyM8zW">
     <property role="TrG5h" value="Nutrients" />
@@ -352,6 +391,10 @@
     <node concept="M4N5e" id="27rUFnyM8$1" role="M5hS2">
       <property role="1uS6qo" value="DOUBLE" />
       <property role="1uS6qv" value="DOUBLE" />
+    </node>
+    <node concept="M4N5e" id="64ymvO2AY_K" role="M5hS2">
+      <property role="1uS6qo" value="HALF" />
+      <property role="1uS6qv" value="HALF" />
     </node>
   </node>
   <node concept="Az7Fb" id="27rUFnyM8$5">
