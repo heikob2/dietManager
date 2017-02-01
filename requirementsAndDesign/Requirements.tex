@@ -1,0 +1,104 @@
+% LaTeX-Template für Abschlussarbeiten am Lehrstuhl AI1
+% felix.schwaegerl@uni-bayreuth.de
+% Build: pdftex bibtex pdftex pdftex
+%
+\documentclass[10pt,a4paper]{article}
+\usepackage{a4wide}
+\usepackage{booktabs}
+\usepackage{amsmath}
+\usepackage[utf8]{inputenc}
+\usepackage[ngerman]{babel}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{xcolor}
+\usepackage{float}
+\usepackage{listings}
+\usepackage[numbers, square]{natbib}
+%\usepackage[small,sf,bf]{caption}
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{wrapfig}
+\usepackage{adjustbox}
+%
+% Hier weitere benutzerdefinierte Packages hinzufuegen
+%
+\usepackage[colorlinks]{hyperref}
+\hypersetup{
+	bookmarksnumbered,
+	pdfstartview={FitH},
+	citecolor={black},
+	linkcolor={black},
+	urlcolor={black},
+	pdfpagemode={UseOutlines}
+}
+\usepackage[T1]{fontenc}
+\usepackage{multirow}
+
+% Deutsche Titel für Algorithmen und Listings
+\floatname{algorithm}{Algorithmus}
+\renewcommand{\lstlistingname}{Quelltext}
+\renewcommand{\lstlistlistingname}{Quelltextverzeichnis}
+
+% Syntax-Highlighting (Farben wie Eclipse)
+\definecolor{dkblue}{rgb}{0.16,0,1}
+\definecolor{dkgreen}{rgb}{0.24,0.5,0.37}
+\definecolor{gray}{rgb}{0.3,0.3,0.3}
+\definecolor{mauve}{rgb}{0.58,0,0.33}
+\lstset{
+  showstringspaces=false,
+  columns=flexible,
+  numbers=left,
+  numberstyle=\ttfamily\tiny\color{gray},
+  stepnumber=1,
+  numbersep=8pt,
+  basicstyle=\ttfamily\small,
+  keywordstyle=\color{mauve}\textbf,
+  commentstyle=\color{dkgreen},
+  stringstyle=\color{dkblue},
+  breaklines=true,
+  breakatwhitespace=true,
+  tabsize=4,
+}
+
+% Bibtex-Stil
+\citestyle{dinat}
+\bibliographystyle{dinat}
+
+% Informationen für Titelseite
+
+\usepackage{fancyhdr}
+\begin{document}
+
+\newcommand\tab[1][1cm]{\hspace*{#1}}
+
+\pagestyle{fancy}
+\lhead{}
+\pagenumbering{arabic}
+\cfoot{-- \vspace{0.5cm}\thepage\vspace{0.5cm} --}
+\rfoot{}
+\renewcommand\headrule{
+\begin{minipage}{1\textwidth}
+\hrule width \hsize \kern 1mm \hrule width \hsize height 2pt
+\end{minipage}}
+
+
+
+
+\tableofcontents
+
+\clearpage
+
+
+\section{Requirements - informal}
+
+
+
+\clearpage
+% Literaturverzeichnis (verpflichtend!)
+\bibliography{literature}
+\clearpage
+
+
+
+\end{document}
