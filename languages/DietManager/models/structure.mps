@@ -356,7 +356,7 @@
   </node>
   <node concept="Az7Fb" id="27rUFnyMre_">
     <property role="TrG5h" value="Date" />
-    <property role="FLfZY" value="10" />
+    <property role="FLfZY" value="[0-3]?[0-9].[0-1]?[0-9].2[0-9][0-9][0-9]" />
   </node>
 </model>
 

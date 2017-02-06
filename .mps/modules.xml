@@ -5,6 +5,8 @@
       <modulePath path="$PROJECT_DIR$/languages/DietManager/DietManager.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/DietManager/runtime/DietManager.runtime.msd" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/DietManager/sandbox/DietManager.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/Reciepes/Reciepes.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/User/User.msd" folder="" />
     </projectModules>
   </component>
 </project>

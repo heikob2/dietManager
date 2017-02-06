@@ -68,7 +68,7 @@
     <property role="TrG5h" value="Lisa" />
     <node concept="334Q9m" id="6T5br9AJJkz" role="334zOD">
       <node concept="334Q9i" id="6T5br9AJJkD" role="334zOJ">
-        <property role="334zOw" value="10" />
+        <property role="334zOw" value="05.01.2017" />
         <property role="334zOy" value="666.6" />
         <property role="334zO$" value="5000" />
         <node concept="334Q9t" id="6T5br9AJJkF" role="334zOU">

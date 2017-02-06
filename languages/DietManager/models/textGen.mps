@@ -6,9 +6,9 @@
     <devkit ref="2677cb18-f558-4e33-bc38-a5139cee06dc(jetbrains.mps.devkit.language-design)" />
   </languages>
   <imports>
+    <import index="46al" ref="r:8c8aa868-058c-4f51-b21e-262d0fe068c9(DietManager.behavior)" />
     <import index="v4i4" ref="r:26b8b27d-adf5-4a86-b805-a9ae0a0812d9(DietManager.structure)" implicit="true" />
     <import index="wyt6" ref="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.lang(JDK/)" implicit="true" />
-    <import index="46al" ref="r:8c8aa868-058c-4f51-b21e-262d0fe068c9(DietManager.behavior)" implicit="true" />
     <import index="tpck" ref="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" implicit="true" />
   </imports>
   <registry>
@@ -173,12 +173,12 @@
             <property role="lacIc" value=";" />
           </node>
           <node concept="l9hG8" id="6T5br9AJtt3" role="lcghm">
-            <node concept="2YIFZM" id="6T5br9AJugu" role="lb14g">
-              <ref role="37wK5l" to="wyt6:~Double.toString(double):java.lang.String" resolve="toString" />
-              <ref role="1Pybhc" to="wyt6:~Double" resolve="Double" />
-              <node concept="2OqwBi" id="6T5br9AJuyP" role="37wK5m">
-                <node concept="117lpO" id="6T5br9AJul7" role="2Oq$k0" />
-                <node concept="2qgKlT" id="6T5br9AJuWv" role="2OqNvi">
+            <node concept="2YIFZM" id="6T5br9AKVaT" role="lb14g">
+              <ref role="1Pybhc" to="46al:6T5br9AKoAV" resolve="Util" />
+              <ref role="37wK5l" to="46al:6T5br9AKoCw" resolve="doubleToStringCut" />
+              <node concept="2OqwBi" id="6T5br9AKVaU" role="37wK5m">
+                <node concept="117lpO" id="6T5br9AKVaV" role="2Oq$k0" />
+                <node concept="2qgKlT" id="6T5br9AKV$0" role="2OqNvi">
                   <ref role="37wK5l" to="46al:27rUFnyQt9H" resolve="getKcal" />
                 </node>
               </node>
@@ -188,12 +188,12 @@
             <property role="lacIc" value=";" />
           </node>
           <node concept="l9hG8" id="6T5br9AJvdE" role="lcghm">
-            <node concept="2YIFZM" id="6T5br9AJvnt" role="lb14g">
-              <ref role="37wK5l" to="wyt6:~Double.toString(double):java.lang.String" resolve="toString" />
-              <ref role="1Pybhc" to="wyt6:~Double" resolve="Double" />
-              <node concept="2OqwBi" id="6T5br9AJvDO" role="37wK5m">
-                <node concept="117lpO" id="6T5br9AJvs6" role="2Oq$k0" />
-                <node concept="2qgKlT" id="6T5br9AJw3u" role="2OqNvi">
+            <node concept="2YIFZM" id="6T5br9AKVG$" role="lb14g">
+              <ref role="1Pybhc" to="46al:6T5br9AKoAV" resolve="Util" />
+              <ref role="37wK5l" to="46al:6T5br9AKoCw" resolve="doubleToStringCut" />
+              <node concept="2OqwBi" id="6T5br9AKVG_" role="37wK5m">
+                <node concept="117lpO" id="6T5br9AKVGA" role="2Oq$k0" />
+                <node concept="2qgKlT" id="6T5br9AKWwi" role="2OqNvi">
                   <ref role="37wK5l" to="46al:27rUFnyQxw9" resolve="getProteine" />
                 </node>
               </node>
@@ -203,12 +203,12 @@
             <property role="lacIc" value=";" />
           </node>
           <node concept="l9hG8" id="6T5br9AJwlk" role="lcghm">
-            <node concept="2YIFZM" id="6T5br9AJwvL" role="lb14g">
-              <ref role="37wK5l" to="wyt6:~Double.toString(double):java.lang.String" resolve="toString" />
-              <ref role="1Pybhc" to="wyt6:~Double" resolve="Double" />
-              <node concept="2OqwBi" id="6T5br9AJwM8" role="37wK5m">
-                <node concept="117lpO" id="6T5br9AJw$q" role="2Oq$k0" />
-                <node concept="2qgKlT" id="6T5br9AJxbM" role="2OqNvi">
+            <node concept="2YIFZM" id="6T5br9AKx7y" role="lb14g">
+              <ref role="37wK5l" to="46al:6T5br9AKoCw" resolve="doubleToStringCut" />
+              <ref role="1Pybhc" to="46al:6T5br9AKoAV" resolve="Util" />
+              <node concept="2OqwBi" id="6T5br9AKxpU" role="37wK5m">
+                <node concept="117lpO" id="6T5br9AKxcc" role="2Oq$k0" />
+                <node concept="2qgKlT" id="6T5br9AKxN_" role="2OqNvi">
                   <ref role="37wK5l" to="46al:27rUFnyQ$PL" resolve="getCarbohydrate" />
                 </node>
               </node>
@@ -218,12 +218,12 @@
             <property role="lacIc" value=";" />
           </node>
           <node concept="l9hG8" id="6T5br9AJxuh" role="lcghm">
-            <node concept="2YIFZM" id="6T5br9AJxNr" role="lb14g">
-              <ref role="37wK5l" to="wyt6:~Double.toString(double):java.lang.String" resolve="toString" />
-              <ref role="1Pybhc" to="wyt6:~Double" resolve="Double" />
-              <node concept="2OqwBi" id="6T5br9AJy5M" role="37wK5m">
-                <node concept="117lpO" id="6T5br9AJxS4" role="2Oq$k0" />
-                <node concept="2qgKlT" id="6T5br9AJyvs" role="2OqNvi">
+            <node concept="2YIFZM" id="6T5br9AKWCQ" role="lb14g">
+              <ref role="1Pybhc" to="46al:6T5br9AKoAV" resolve="Util" />
+              <ref role="37wK5l" to="46al:6T5br9AKoCw" resolve="doubleToStringCut" />
+              <node concept="2OqwBi" id="6T5br9AKWCR" role="37wK5m">
+                <node concept="117lpO" id="6T5br9AKWCS" role="2Oq$k0" />
+                <node concept="2qgKlT" id="6T5br9AKX1X" role="2OqNvi">
                   <ref role="37wK5l" to="46al:27rUFnyQCMB" resolve="getFat" />
                 </node>
               </node>
@@ -233,12 +233,12 @@
             <property role="lacIc" value=";" />
           </node>
           <node concept="l9hG8" id="6T5br9AJyBY" role="lcghm">
-            <node concept="2YIFZM" id="6T5br9AJyNJ" role="lb14g">
-              <ref role="37wK5l" to="wyt6:~Double.toString(double):java.lang.String" resolve="toString" />
-              <ref role="1Pybhc" to="wyt6:~Double" resolve="Double" />
-              <node concept="2OqwBi" id="6T5br9AJz66" role="37wK5m">
-                <node concept="117lpO" id="6T5br9AJySo" role="2Oq$k0" />
-                <node concept="2qgKlT" id="6T5br9AJzvK" role="2OqNvi">
+            <node concept="2YIFZM" id="6T5br9AKXax" role="lb14g">
+              <ref role="1Pybhc" to="46al:6T5br9AKoAV" resolve="Util" />
+              <ref role="37wK5l" to="46al:6T5br9AKoCw" resolve="doubleToStringCut" />
+              <node concept="2OqwBi" id="6T5br9AKXay" role="37wK5m">
+                <node concept="117lpO" id="6T5br9AKXaz" role="2Oq$k0" />
+                <node concept="2qgKlT" id="6T5br9AKXzC" role="2OqNvi">
                   <ref role="37wK5l" to="46al:27rUFnyQFLC" resolve="getBasicLevelValue" />
                 </node>
               </node>
@@ -248,12 +248,12 @@
             <property role="lacIc" value=";" />
           </node>
           <node concept="l9hG8" id="6T5br9AJzNz" role="lcghm">
-            <node concept="2YIFZM" id="6T5br9AJzZY" role="lb14g">
-              <ref role="37wK5l" to="wyt6:~Double.toString(double):java.lang.String" resolve="toString" />
-              <ref role="1Pybhc" to="wyt6:~Double" resolve="Double" />
-              <node concept="2OqwBi" id="6T5br9AJ$k3" role="37wK5m">
-                <node concept="117lpO" id="6T5br9AJ$4B" role="2Oq$k0" />
-                <node concept="2qgKlT" id="6T5br9AJ$HH" role="2OqNvi">
+            <node concept="2YIFZM" id="6T5br9AKY7O" role="lb14g">
+              <ref role="1Pybhc" to="46al:6T5br9AKoAV" resolve="Util" />
+              <ref role="37wK5l" to="46al:6T5br9AKoCw" resolve="doubleToStringCut" />
+              <node concept="2OqwBi" id="6T5br9AKY7P" role="37wK5m">
+                <node concept="117lpO" id="6T5br9AKY7Q" role="2Oq$k0" />
+                <node concept="2qgKlT" id="6T5br9AKYoG" role="2OqNvi">
                   <ref role="37wK5l" to="46al:27rUFnyQInw" resolve="getNutrientsValue" />
                 </node>
               </node>
@@ -303,12 +303,12 @@
             <property role="lacIc" value=";" />
           </node>
           <node concept="l9hG8" id="6T5br9AJlnc" role="lcghm">
-            <node concept="2YIFZM" id="6T5br9AJlxq" role="lb14g">
-              <ref role="37wK5l" to="wyt6:~Double.toString(double):java.lang.String" resolve="toString" />
-              <ref role="1Pybhc" to="wyt6:~Double" resolve="Double" />
-              <node concept="2OqwBi" id="6T5br9AJlNj" role="37wK5m">
-                <node concept="117lpO" id="6T5br9AJlA5" role="2Oq$k0" />
-                <node concept="2qgKlT" id="6T5br9AJm9X" role="2OqNvi">
+            <node concept="2YIFZM" id="6T5br9AKYB7" role="lb14g">
+              <ref role="1Pybhc" to="46al:6T5br9AKoAV" resolve="Util" />
+              <ref role="37wK5l" to="46al:6T5br9AKoCw" resolve="doubleToStringCut" />
+              <node concept="2OqwBi" id="6T5br9AKYB8" role="37wK5m">
+                <node concept="117lpO" id="6T5br9AKYB9" role="2Oq$k0" />
+                <node concept="2qgKlT" id="6T5br9AKYY7" role="2OqNvi">
                   <ref role="37wK5l" to="46al:27rUFnyOTS7" resolve="getKcal" />
                 </node>
               </node>
@@ -318,13 +318,13 @@
             <property role="lacIc" value=";" />
           </node>
           <node concept="l9hG8" id="6T5br9AJmOi" role="lcghm">
-            <node concept="2YIFZM" id="6T5br9AJn0L" role="lb14g">
-              <ref role="37wK5l" to="wyt6:~Double.toString(double):java.lang.String" resolve="toString" />
-              <ref role="1Pybhc" to="wyt6:~Double" resolve="Double" />
-              <node concept="2OqwBi" id="6T5br9AJnio" role="37wK5m">
-                <node concept="117lpO" id="6T5br9AJn5s" role="2Oq$k0" />
-                <node concept="2qgKlT" id="6T5br9AJnD2" role="2OqNvi">
-                  <ref role="37wK5l" to="46al:27rUFnyOXlX" resolve="getProteine" />
+            <node concept="2YIFZM" id="6T5br9AKZ6l" role="lb14g">
+              <ref role="1Pybhc" to="46al:6T5br9AKoAV" resolve="Util" />
+              <ref role="37wK5l" to="46al:6T5br9AKoCw" resolve="doubleToStringCut" />
+              <node concept="2OqwBi" id="6T5br9AKZ6m" role="37wK5m">
+                <node concept="117lpO" id="6T5br9AKZ6n" role="2Oq$k0" />
+                <node concept="2qgKlT" id="6T5br9AKZ_6" role="2OqNvi">
+                  <ref role="37wK5l" to="46al:27rUFnyP17k" resolve="getCarbohydrate" />
                 </node>
               </node>
             </node>
@@ -333,13 +333,13 @@
             <property role="lacIc" value=";" />
           </node>
           <node concept="l9hG8" id="6T5br9AJo_U" role="lcghm">
-            <node concept="2YIFZM" id="6T5br9AJoN4" role="lb14g">
-              <ref role="37wK5l" to="wyt6:~Double.toString(double):java.lang.String" resolve="toString" />
-              <ref role="1Pybhc" to="wyt6:~Double" resolve="Double" />
-              <node concept="2OqwBi" id="6T5br9AJp4X" role="37wK5m">
-                <node concept="117lpO" id="6T5br9AJoRJ" role="2Oq$k0" />
-                <node concept="2qgKlT" id="6T5br9AJprB" role="2OqNvi">
-                  <ref role="37wK5l" to="46al:27rUFnyP17k" resolve="getCarbohydrate" />
+            <node concept="2YIFZM" id="6T5br9AKZHl" role="lb14g">
+              <ref role="1Pybhc" to="46al:6T5br9AKoAV" resolve="Util" />
+              <ref role="37wK5l" to="46al:6T5br9AKoCw" resolve="doubleToStringCut" />
+              <node concept="2OqwBi" id="6T5br9AKZHm" role="37wK5m">
+                <node concept="117lpO" id="6T5br9AKZHn" role="2Oq$k0" />
+                <node concept="2qgKlT" id="6T5br9AL0c6" role="2OqNvi">
+                  <ref role="37wK5l" to="46al:27rUFnyOXlX" resolve="getProteine" />
                 </node>
               </node>
             </node>
@@ -347,13 +347,25 @@
           <node concept="la8eA" id="6T5br9AJpKt" role="lcghm">
             <property role="lacIc" value=";" />
           </node>
+          <node concept="l9hG8" id="6T5br9AL0yg" role="lcghm">
+            <node concept="2YIFZM" id="6T5br9AL0yh" role="lb14g">
+              <ref role="1Pybhc" to="46al:6T5br9AKoAV" resolve="Util" />
+              <ref role="37wK5l" to="46al:6T5br9AKoCw" resolve="doubleToStringCut" />
+              <node concept="2OqwBi" id="6T5br9AL0yi" role="37wK5m">
+                <node concept="117lpO" id="6T5br9AL0yj" role="2Oq$k0" />
+                <node concept="2qgKlT" id="6T5br9AL0Sf" role="2OqNvi">
+                  <ref role="37wK5l" to="46al:27rUFnyP5Uo" resolve="getFat" />
+                </node>
+              </node>
+            </node>
+          </node>
           <node concept="l9hG8" id="6T5br9AJq9Y" role="lcghm">
-            <node concept="2YIFZM" id="6T5br9AJqnN" role="lb14g">
-              <ref role="37wK5l" to="wyt6:~Double.toString(double):java.lang.String" resolve="toString" />
-              <ref role="1Pybhc" to="wyt6:~Double" resolve="Double" />
-              <node concept="2OqwBi" id="6T5br9AJqDq" role="37wK5m">
-                <node concept="117lpO" id="6T5br9AJqsu" role="2Oq$k0" />
-                <node concept="2qgKlT" id="6T5br9AJr04" role="2OqNvi">
+            <node concept="2YIFZM" id="6T5br9AL1uk" role="lb14g">
+              <ref role="37wK5l" to="46al:6T5br9AKoCw" resolve="doubleToStringCut" />
+              <ref role="1Pybhc" to="46al:6T5br9AKoAV" resolve="Util" />
+              <node concept="2OqwBi" id="6T5br9AL1ul" role="37wK5m">
+                <node concept="117lpO" id="6T5br9AL1um" role="2Oq$k0" />
+                <node concept="2qgKlT" id="6T5br9AL1HY" role="2OqNvi">
                   <ref role="37wK5l" to="46al:27rUFnyP9eW" resolve="getBasicLevelValue" />
                 </node>
               </node>
@@ -363,12 +375,12 @@
             <property role="lacIc" value=";" />
           </node>
           <node concept="l9hG8" id="6T5br9AJrKs" role="lcghm">
-            <node concept="2YIFZM" id="6T5br9AJrYW" role="lb14g">
-              <ref role="37wK5l" to="wyt6:~Double.toString(double):java.lang.String" resolve="toString" />
-              <ref role="1Pybhc" to="wyt6:~Double" resolve="Double" />
-              <node concept="2OqwBi" id="6T5br9AJsgP" role="37wK5m">
-                <node concept="117lpO" id="6T5br9AJs3B" role="2Oq$k0" />
-                <node concept="2qgKlT" id="6T5br9AJsBv" role="2OqNvi">
+            <node concept="2YIFZM" id="6T5br9AL1Qc" role="lb14g">
+              <ref role="37wK5l" to="46al:6T5br9AKoCw" resolve="doubleToStringCut" />
+              <ref role="1Pybhc" to="46al:6T5br9AKoAV" resolve="Util" />
+              <node concept="2OqwBi" id="6T5br9AL1Qd" role="37wK5m">
+                <node concept="117lpO" id="6T5br9AL1Qe" role="2Oq$k0" />
+                <node concept="2qgKlT" id="6T5br9AL2dc" role="2OqNvi">
                   <ref role="37wK5l" to="46al:27rUFnyPaF0" resolve="getNutrientsValue" />
                 </node>
               </node>
