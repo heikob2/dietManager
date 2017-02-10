@@ -93,18 +93,22 @@
       <property role="334zRu" value="DOUBLE" />
     </node>
     <node concept="334Q9s" id="6T5br9ALmsa" role="334zRa">
-      <property role="334zRy" value="0.0" />
-      <property role="334zRG" value="0.0" />
-      <property role="334zRD" value="0.0" />
-      <property role="334zRl" value="0.0" />
+      <property role="334zRy" value="039.0" />
+      <property role="334zRG" value="0.8" />
+      <property role="334zRD" value="6.8" />
+      <property role="334zRl" value="0.2" />
       <property role="TrG5h" value="Karotte" />
+      <property role="334zRg" value="BASIC" />
+      <property role="334zRu" value="DOUBLE" />
     </node>
     <node concept="334Q9s" id="6T5br9ALmso" role="334zRa">
-      <property role="334zRy" value="0.0" />
-      <property role="334zRG" value="0.0" />
-      <property role="334zRD" value="0.0" />
-      <property role="334zRl" value="0.0" />
+      <property role="334zRy" value="18.0" />
+      <property role="334zRG" value="1.0" />
+      <property role="334zRD" value="2.6" />
+      <property role="334zRl" value="0.2" />
       <property role="TrG5h" value="Tomate" />
+      <property role="334zRg" value="BASIC" />
+      <property role="334zRu" value="DOUBLE" />
     </node>
     <node concept="334Q9s" id="6T5br9ALmsC" role="334zRa">
       <property role="334zRy" value="12" />
@@ -116,11 +120,13 @@
       <property role="334zRu" value="DOUBLE" />
     </node>
     <node concept="334Q9s" id="6T5br9ALmsU" role="334zRa">
-      <property role="334zRy" value="0.0" />
-      <property role="334zRG" value="0.0" />
-      <property role="334zRD" value="0.0" />
-      <property role="334zRl" value="0.0" />
+      <property role="334zRy" value="27" />
+      <property role="334zRG" value="1.6" />
+      <property role="334zRD" value="23" />
+      <property role="334zRl" value="0.3" />
       <property role="TrG5h" value="Sellerie" />
+      <property role="334zRg" value="BASIC" />
+      <property role="334zRu" value="DOUBLE" />
     </node>
     <node concept="334Q9s" id="3f_3Ja8qCva" role="334zRa">
       <property role="334zRy" value="21" />
@@ -148,6 +154,22 @@
       <property role="TrG5h" value="Bohne, grün, gekocht" />
       <property role="334zRg" value="SOUR" />
       <property role="334zRu" value="SINGLE" />
+    </node>
+    <node concept="334Q9s" id="SCalNocbHu" role="334zRa">
+      <property role="334zRy" value="19" />
+      <property role="334zRG" value="2" />
+      <property role="334zRD" value="2" />
+      <property role="334zRl" value="0.3" />
+      <property role="TrG5h" value="Blumenkohl, gekocht" />
+      <property role="334zRg" value="BASIC" />
+      <property role="334zRu" value="DOUBLE" />
+    </node>
+    <node concept="334Q9s" id="3XOg$MBbMgk" role="334zRa">
+      <property role="334zRy" value="150" />
+      <property role="334zRG" value="5.8" />
+      <property role="334zRD" value="15.9" />
+      <property role="334zRl" value="6" />
+      <property role="TrG5h" value="Tomate, getrocknet" />
     </node>
   </node>
   <node concept="334Q9W" id="6T5br9ALmt4">
@@ -260,6 +282,15 @@
       <property role="TrG5h" value="Zucker" />
       <property role="334zRg" value="SOUR" />
       <property role="334zRu" value="NONE" />
+    </node>
+    <node concept="334Q9s" id="3XOg$MBbMhJ" role="334zRa">
+      <property role="334zRy" value="222" />
+      <property role="334zRG" value="6.7" />
+      <property role="334zRD" value="44.4" />
+      <property role="334zRl" value="2.2" />
+      <property role="TrG5h" value="Brot" />
+      <property role="334zRg" value="SOUR" />
+      <property role="334zRu" value="SINGLE" />
     </node>
   </node>
   <node concept="334Q9W" id="6T5br9ALmuG">
@@ -400,6 +431,15 @@
       <property role="334zRD" value="0.0" />
       <property role="334zRl" value="30.0" />
       <property role="TrG5h" value="Gorgonzola" />
+      <property role="334zRg" value="SOUR" />
+    </node>
+    <node concept="334Q9s" id="SCalNocbFH" role="334zRa">
+      <property role="334zRy" value="270" />
+      <property role="334zRG" value="23" />
+      <property role="334zRD" value="0.0" />
+      <property role="334zRl" value="19.7" />
+      <property role="TrG5h" value="Limburger" />
+      <property role="334zRg" value="SOUR" />
     </node>
   </node>
   <node concept="334Q9W" id="6T5br9ALmwU">
@@ -439,6 +479,31 @@
       <property role="TrG5h" value="Milka Noisette" />
       <property role="334zRg" value="SOUR" />
       <property role="334zRu" value="NONE" />
+    </node>
+    <node concept="334Q9s" id="SCalNocbFu" role="334zRa">
+      <property role="334zRy" value="292" />
+      <property role="334zRG" value="8" />
+      <property role="334zRD" value="33.1" />
+      <property role="334zRl" value="12.4" />
+      <property role="TrG5h" value="Käsekuchen" />
+      <property role="334zRg" value="SOUR" />
+      <property role="334zRu" value="NONE" />
+    </node>
+    <node concept="334Q9s" id="SCalNocbFX" role="334zRa">
+      <property role="334zRy" value="162" />
+      <property role="334zRG" value="0.4" />
+      <property role="334zRD" value="39.2" />
+      <property role="334zRl" value="0.1" />
+      <property role="TrG5h" value="Zwetschgenchutney" />
+      <property role="334zRg" value="SOUR" />
+    </node>
+    <node concept="334Q9s" id="3XOg$MBbMmQ" role="334zRa">
+      <property role="334zRy" value="473" />
+      <property role="334zRG" value="5.4" />
+      <property role="334zRD" value="61.3" />
+      <property role="334zRl" value="23.2" />
+      <property role="TrG5h" value="Keks Soft Baked (Sondey)" />
+      <property role="334zRg" value="SOUR" />
     </node>
   </node>
   <node concept="WkIoy" id="6T5br9AMB0a">
@@ -1096,6 +1161,569 @@
           </node>
         </node>
       </node>
+      <node concept="334Q9i" id="SCalNo5wMI" role="334zOJ">
+        <property role="334zOw" value="08.02.2017" />
+        <property role="334zOy" value="-1" />
+        <property role="334zO$" value="2000" />
+        <node concept="334Q9t" id="SCalNo5wOU" role="334zOU">
+          <property role="334zOO" value="100" />
+          <ref role="334zOT" node="6T5br9ALmwE" resolve="Joghurt" />
+          <node concept="334Q9s" id="SCalNo5wP1" role="334zOZ">
+            <property role="334zRy" value="70" />
+            <property role="334zRG" value="4.1" />
+            <property role="334zRD" value="5.3" />
+            <property role="334zRl" value="3.5" />
+            <property role="TrG5h" value="Joghurt" />
+            <property role="334zRg" value="SOUR" />
+            <property role="334zRu" value="SINGLE" />
+          </node>
+        </node>
+        <node concept="334Q9t" id="SCalNo5wP3" role="334zOU">
+          <property role="334zOO" value="20" />
+          <ref role="334zOT" node="6T5br9ALmu$" resolve="Haferflocken" />
+          <node concept="334Q9s" id="SCalNo5wPc" role="334zOZ">
+            <property role="334zRy" value="372" />
+            <property role="334zRG" value="13.5" />
+            <property role="334zRD" value="58.7" />
+            <property role="334zRl" value="7.0" />
+            <property role="TrG5h" value="Haferflocken" />
+            <property role="334zRg" value="BASIC" />
+            <property role="334zRu" value="DOUBLE" />
+          </node>
+        </node>
+        <node concept="334Q9t" id="SCalNo5z3f" role="334zOU">
+          <property role="334zOO" value="210" />
+          <ref role="334zOT" node="6T5br9ALmtd" resolve="Birne" />
+          <node concept="334Q9s" id="SCalNo5z3q" role="334zOZ">
+            <property role="334zRy" value="52" />
+            <property role="334zRG" value="0.5" />
+            <property role="334zRD" value="12.4" />
+            <property role="334zRl" value="0.3" />
+            <property role="TrG5h" value="Birne" />
+            <property role="334zRg" value="BASIC" />
+            <property role="334zRu" value="DOUBLE" />
+          </node>
+        </node>
+        <node concept="334Q9t" id="SCalNoaCZd" role="334zOU">
+          <property role="334zOO" value="125" />
+          <ref role="334zOT" node="3f_3Ja8qCws" resolve="Paprika" />
+          <node concept="334Q9s" id="SCalNoaCZn" role="334zOZ">
+            <property role="334zRy" value="35" />
+            <property role="334zRG" value="1.0" />
+            <property role="334zRD" value="6.0" />
+            <property role="334zRl" value="0.3" />
+            <property role="TrG5h" value="Paprika" />
+            <property role="334zRg" value="BASIC" />
+            <property role="334zRu" value="DOUBLE" />
+          </node>
+        </node>
+        <node concept="334Q9t" id="SCalNocbsk" role="334zOU">
+          <property role="334zOO" value="128" />
+          <ref role="334zOT" node="6T5br9ALmsC" resolve="Gurke" />
+          <node concept="334Q9s" id="SCalNocbsw" role="334zOZ">
+            <property role="334zRy" value="12" />
+            <property role="334zRG" value="0.6" />
+            <property role="334zRD" value="1.8" />
+            <property role="334zRl" value="0.2" />
+            <property role="TrG5h" value="Gurke" />
+            <property role="334zRg" value="BASIC" />
+            <property role="334zRu" value="DOUBLE" />
+          </node>
+        </node>
+        <node concept="334Q9t" id="SCalNocbsy" role="334zOU">
+          <property role="334zOO" value="199" />
+          <ref role="334zOT" node="6T5br9ALmwy" resolve="Quark " />
+          <node concept="334Q9s" id="SCalNocbsK" role="334zOZ">
+            <property role="334zRy" value="97" />
+            <property role="334zRG" value="10.5" />
+            <property role="334zRD" value="3.9" />
+            <property role="334zRl" value="4.4" />
+            <property role="TrG5h" value="Quark " />
+            <property role="334zRg" value="SOUR" />
+            <property role="334zRu" value="SINGLE" />
+          </node>
+        </node>
+        <node concept="334Q9t" id="SCalNocbsM" role="334zOU">
+          <property role="334zOO" value="111" />
+          <ref role="334zOT" node="6fzdkAS2iPq" resolve="Knäckebrot" />
+          <node concept="334Q9q" id="SCalNocbt2" role="334zOZ">
+            <property role="TrG5h" value="Knäckebrot" />
+            <node concept="334Q97" id="SCalNocbt3" role="334zR8">
+              <property role="334zR7" value="240" />
+              <ref role="334zRe" node="6T5br9ALmtS" resolve="Dinkelvollkornmehl" />
+            </node>
+            <node concept="334Q97" id="SCalNocbt4" role="334zR8">
+              <property role="334zR7" value="200" />
+              <ref role="334zRe" node="6T5br9ALmvx" resolve="Sonnenblumenkern" />
+            </node>
+            <node concept="334Q97" id="SCalNocbt5" role="334zR8">
+              <property role="334zR7" value="100" />
+              <ref role="334zRe" node="6T5br9ALmvj" resolve="Kürbiskern" />
+            </node>
+            <node concept="334Q97" id="SCalNocbt6" role="334zR8">
+              <property role="334zR7" value="100" />
+              <ref role="334zRe" node="6T5br9ALmv7" resolve="Leinsamen" />
+            </node>
+          </node>
+        </node>
+        <node concept="334Q9t" id="SCalNocbtc" role="334zOU">
+          <property role="334zOO" value="17" />
+          <ref role="334zOT" node="3f_3Ja8qCsY" resolve="Milka Noisette" />
+          <node concept="334Q9s" id="SCalNocbty" role="334zOZ">
+            <property role="334zRy" value="549" />
+            <property role="334zRG" value="7.5" />
+            <property role="334zRD" value="53.0" />
+            <property role="334zRl" value="34.0" />
+            <property role="TrG5h" value="Milka Noisette" />
+            <property role="334zRg" value="SOUR" />
+            <property role="334zRu" value="NONE" />
+          </node>
+        </node>
+        <node concept="334Q9t" id="SCalNocbt$" role="334zOU">
+          <property role="334zOO" value="152" />
+          <ref role="334zOT" node="6T5br9ALmrx" resolve="Kartoffel" />
+          <node concept="334Q9s" id="SCalNocbtW" role="334zOZ">
+            <property role="334zRy" value="76" />
+            <property role="334zRG" value="1.9" />
+            <property role="334zRD" value="15.6" />
+            <property role="334zRl" value="0.0" />
+            <property role="TrG5h" value="Kartoffel" />
+            <property role="334zRu" value="SINGLE" />
+          </node>
+        </node>
+        <node concept="334Q9t" id="SCalNocbHV" role="334zOU">
+          <property role="334zOO" value="260" />
+          <ref role="334zOT" node="SCalNocbHa" resolve="Gemüsesuppe" />
+          <node concept="334Q9q" id="SCalNocbIl" role="334zOZ">
+            <property role="TrG5h" value="Gemüsesuppe" />
+            <node concept="334Q97" id="SCalNocbIm" role="334zR8">
+              <property role="334zR7" value="3000" />
+              <ref role="334zRe" node="4BIrG1CPHpB" resolve="Wasser" />
+            </node>
+            <node concept="334Q97" id="SCalNocbIn" role="334zR8">
+              <property role="334zR7" value="300" />
+              <ref role="334zRe" node="3f_3Ja8qCva" resolve="Brokkoli, gekocht" />
+            </node>
+            <node concept="334Q97" id="SCalNocbIo" role="334zR8">
+              <property role="334zR7" value="300" />
+              <ref role="334zRe" node="SCalNocbHu" resolve="Blumenkohl, gekocht" />
+            </node>
+            <node concept="334Q97" id="SCalNocbIp" role="334zR8">
+              <property role="334zR7" value="300" />
+              <ref role="334zRe" node="3f_3Ja8qCwO" resolve="Bohne, grün, gekocht" />
+            </node>
+            <node concept="334Q97" id="SCalNocbIq" role="334zR8">
+              <property role="334zR7" value="200" />
+              <ref role="334zRe" node="6T5br9ALmrx" resolve="Kartoffel" />
+            </node>
+          </node>
+        </node>
+      </node>
+      <node concept="334Q9i" id="SCalNo5wAy" role="334zOJ">
+        <property role="334zOw" value="09.02.2017" />
+        <property role="334zOy" value="-1" />
+        <property role="334zO$" value="2000" />
+        <node concept="334Q9t" id="SCalNo5wEq" role="334zOU">
+          <property role="334zOO" value="130" />
+          <ref role="334zOT" node="6T5br9ALmwy" resolve="Quark " />
+          <node concept="334Q9s" id="SCalNo5wEx" role="334zOZ">
+            <property role="334zRy" value="97" />
+            <property role="334zRG" value="10.5" />
+            <property role="334zRD" value="3.9" />
+            <property role="334zRl" value="4.4" />
+            <property role="TrG5h" value="Quark " />
+            <property role="334zRg" value="SOUR" />
+            <property role="334zRu" value="SINGLE" />
+          </node>
+        </node>
+        <node concept="334Q9t" id="SCalNo5wEz" role="334zOU">
+          <property role="334zOO" value="76" />
+          <ref role="334zOT" node="6fzdkAS2iPH" resolve="Knäckebrot" />
+          <node concept="334Q9q" id="SCalNo5wEG" role="334zOZ">
+            <property role="TrG5h" value="Knäckebrot" />
+            <node concept="334Q97" id="SCalNo5wEH" role="334zR8">
+              <property role="334zR7" value="240" />
+              <ref role="334zRe" node="6T5br9ALmtS" resolve="Dinkelvollkornmehl" />
+            </node>
+            <node concept="334Q97" id="SCalNo5wEI" role="334zR8">
+              <property role="334zR7" value="200" />
+              <ref role="334zRe" node="6T5br9ALmvx" resolve="Sonnenblumenkern" />
+            </node>
+            <node concept="334Q97" id="SCalNo5wEJ" role="334zR8">
+              <property role="334zR7" value="100" />
+              <ref role="334zRe" node="6T5br9ALmvj" resolve="Kürbiskern" />
+            </node>
+            <node concept="334Q97" id="SCalNo5wEK" role="334zR8">
+              <property role="334zR7" value="100" />
+              <ref role="334zRe" node="6T5br9ALmv7" resolve="Leinsamen" />
+            </node>
+          </node>
+        </node>
+        <node concept="334Q9t" id="SCalNo5wEQ" role="334zOU">
+          <property role="334zOO" value="21" />
+          <ref role="334zOT" node="6fzdkAS2iUA" resolve="Schinken" />
+          <node concept="334Q9s" id="SCalNo5wF5" role="334zOZ">
+            <property role="334zRy" value="187.0" />
+            <property role="334zRG" value="14.8" />
+            <property role="334zRD" value="0.9" />
+            <property role="334zRl" value="14" />
+            <property role="TrG5h" value="Schinken" />
+            <property role="334zRg" value="SOUR" />
+            <property role="334zRu" value="SINGLE" />
+          </node>
+        </node>
+        <node concept="334Q9t" id="SCalNo5wF7" role="334zOU">
+          <property role="334zOO" value="180" />
+          <ref role="334zOT" node="6T5br9ALmtl" resolve="Pomelo" />
+          <node concept="334Q9s" id="SCalNo5wFo" role="334zOZ">
+            <property role="334zRy" value="45" />
+            <property role="334zRG" value="0.8" />
+            <property role="334zRD" value="10" />
+            <property role="334zRl" value="0.5" />
+            <property role="TrG5h" value="Pomelo" />
+            <property role="334zRg" value="BASIC" />
+            <property role="334zRu" value="DOUBLE" />
+          </node>
+        </node>
+        <node concept="334Q9t" id="SCalNo5wFq" role="334zOU">
+          <property role="334zOO" value="17" />
+          <ref role="334zOT" node="3f_3Ja8qCsY" resolve="Milka Noisette" />
+          <node concept="334Q9s" id="SCalNo5wFH" role="334zOZ">
+            <property role="334zRy" value="549" />
+            <property role="334zRG" value="7.5" />
+            <property role="334zRD" value="53.0" />
+            <property role="334zRl" value="34.0" />
+            <property role="TrG5h" value="Milka Noisette" />
+            <property role="334zRg" value="SOUR" />
+            <property role="334zRu" value="NONE" />
+          </node>
+        </node>
+        <node concept="334Q9t" id="SCalNocbG5" role="334zOU">
+          <property role="334zOO" value="130" />
+          <ref role="334zOT" node="SCalNocbFu" resolve="Käsekuchen" />
+          <node concept="334Q9s" id="SCalNocbGn" role="334zOZ">
+            <property role="334zRy" value="292" />
+            <property role="334zRG" value="8" />
+            <property role="334zRD" value="33.1" />
+            <property role="334zRl" value="12.4" />
+            <property role="TrG5h" value="Käsekuchen" />
+            <property role="334zRg" value="SOUR" />
+            <property role="334zRu" value="NONE" />
+          </node>
+        </node>
+        <node concept="334Q9t" id="SCalNocbGp" role="334zOU">
+          <property role="334zOO" value="34" />
+          <ref role="334zOT" node="SCalNocbFH" resolve="Limburger" />
+          <node concept="334Q9s" id="SCalNocbGH" role="334zOZ">
+            <property role="334zRy" value="270" />
+            <property role="334zRG" value="23" />
+            <property role="334zRD" value="0.0" />
+            <property role="334zRl" value="19.7" />
+            <property role="TrG5h" value="Limburger" />
+            <property role="334zRg" value="SOUR" />
+          </node>
+        </node>
+        <node concept="334Q9t" id="SCalNocbGJ" role="334zOU">
+          <property role="334zOO" value="13" />
+          <ref role="334zOT" node="SCalNocbFX" resolve="Zwetschgenchutney" />
+          <node concept="334Q9s" id="SCalNocbH5" role="334zOZ">
+            <property role="334zRy" value="162" />
+            <property role="334zRG" value="0.4" />
+            <property role="334zRD" value="39.2" />
+            <property role="334zRl" value="0.1" />
+            <property role="TrG5h" value="Zwetschgenchutney" />
+            <property role="334zRg" value="SOUR" />
+          </node>
+        </node>
+        <node concept="334Q9t" id="SCalNocbIx" role="334zOU">
+          <property role="334zOO" value="260" />
+          <ref role="334zOT" node="SCalNocbHa" resolve="Gemüsesuppe" />
+          <node concept="334Q9q" id="SCalNocbIT" role="334zOZ">
+            <property role="TrG5h" value="Gemüsesuppe" />
+            <node concept="334Q97" id="SCalNocbIU" role="334zR8">
+              <property role="334zR7" value="3000" />
+              <ref role="334zRe" node="4BIrG1CPHpB" resolve="Wasser" />
+            </node>
+            <node concept="334Q97" id="SCalNocbIV" role="334zR8">
+              <property role="334zR7" value="300" />
+              <ref role="334zRe" node="3f_3Ja8qCva" resolve="Brokkoli, gekocht" />
+            </node>
+            <node concept="334Q97" id="SCalNocbIW" role="334zR8">
+              <property role="334zR7" value="300" />
+              <ref role="334zRe" node="SCalNocbHu" resolve="Blumenkohl, gekocht" />
+            </node>
+            <node concept="334Q97" id="SCalNocbIX" role="334zR8">
+              <property role="334zR7" value="300" />
+              <ref role="334zRe" node="3f_3Ja8qCwO" resolve="Bohne, grün, gekocht" />
+            </node>
+            <node concept="334Q97" id="SCalNocbIY" role="334zR8">
+              <property role="334zR7" value="200" />
+              <ref role="334zRe" node="6T5br9ALmrx" resolve="Kartoffel" />
+            </node>
+          </node>
+        </node>
+        <node concept="334Q9t" id="3XOg$MBbMoJ" role="334zOU">
+          <property role="334zOO" value="60" />
+          <ref role="334zOT" node="3XOg$MBbMhJ" resolve="Brot" />
+          <node concept="334Q9s" id="3XOg$MBbMpe" role="334zOZ">
+            <property role="334zRy" value="222" />
+            <property role="334zRG" value="6.7" />
+            <property role="334zRD" value="44.4" />
+            <property role="334zRl" value="2.2" />
+            <property role="TrG5h" value="Brot" />
+            <property role="334zRg" value="SOUR" />
+            <property role="334zRu" value="SINGLE" />
+          </node>
+        </node>
+      </node>
+      <node concept="334Q9i" id="SCalNocbAk" role="334zOJ">
+        <property role="334zOw" value="10.02.2017" />
+        <property role="334zOy" value="-1" />
+        <property role="334zO$" value="-1" />
+        <node concept="334Q9t" id="3XOg$MBbMdG" role="334zOU">
+          <property role="334zOO" value="100" />
+          <ref role="334zOT" node="6T5br9ALmwE" resolve="Joghurt" />
+          <node concept="334Q9s" id="3XOg$MBbMdK" role="334zOZ">
+            <property role="334zRy" value="70" />
+            <property role="334zRG" value="4.1" />
+            <property role="334zRD" value="5.3" />
+            <property role="334zRl" value="3.5" />
+            <property role="TrG5h" value="Joghurt" />
+            <property role="334zRg" value="SOUR" />
+            <property role="334zRu" value="SINGLE" />
+          </node>
+        </node>
+        <node concept="334Q9t" id="3XOg$MBbMdM" role="334zOU">
+          <property role="334zOO" value="20" />
+          <ref role="334zOT" node="6T5br9ALmu$" resolve="Haferflocken" />
+          <node concept="334Q9s" id="3XOg$MBbMdS" role="334zOZ">
+            <property role="334zRy" value="372" />
+            <property role="334zRG" value="13.5" />
+            <property role="334zRD" value="58.7" />
+            <property role="334zRl" value="7.0" />
+            <property role="TrG5h" value="Haferflocken" />
+            <property role="334zRg" value="BASIC" />
+            <property role="334zRu" value="DOUBLE" />
+          </node>
+        </node>
+        <node concept="334Q9t" id="3XOg$MBbMdU" role="334zOU">
+          <property role="334zOO" value="118" />
+          <ref role="334zOT" node="6T5br9ALmtd" resolve="Birne" />
+          <node concept="334Q9s" id="3XOg$MBbMe2" role="334zOZ">
+            <property role="334zRy" value="52" />
+            <property role="334zRG" value="0.5" />
+            <property role="334zRD" value="12.4" />
+            <property role="334zRl" value="0.3" />
+            <property role="TrG5h" value="Birne" />
+            <property role="334zRg" value="BASIC" />
+            <property role="334zRu" value="DOUBLE" />
+          </node>
+        </node>
+        <node concept="334Q9t" id="3XOg$MBbMe4" role="334zOU">
+          <property role="334zOO" value="152" />
+          <ref role="334zOT" node="6T5br9ALmtl" resolve="Pomelo" />
+          <node concept="334Q9s" id="3XOg$MBbMee" role="334zOZ">
+            <property role="334zRy" value="45" />
+            <property role="334zRG" value="0.8" />
+            <property role="334zRD" value="10" />
+            <property role="334zRl" value="0.5" />
+            <property role="TrG5h" value="Pomelo" />
+            <property role="334zRg" value="BASIC" />
+            <property role="334zRu" value="DOUBLE" />
+          </node>
+        </node>
+        <node concept="334Q9t" id="3XOg$MBbMeg" role="334zOU">
+          <property role="334zOO" value="230" />
+          <ref role="334zOT" node="6T5br9ALmsC" resolve="Gurke" />
+          <node concept="334Q9s" id="3XOg$MBbMes" role="334zOZ">
+            <property role="334zRy" value="12" />
+            <property role="334zRG" value="0.6" />
+            <property role="334zRD" value="1.8" />
+            <property role="334zRl" value="0.2" />
+            <property role="TrG5h" value="Gurke" />
+            <property role="334zRg" value="BASIC" />
+            <property role="334zRu" value="DOUBLE" />
+          </node>
+        </node>
+        <node concept="334Q9t" id="3XOg$MBbMeu" role="334zOU">
+          <property role="334zOO" value="112" />
+          <ref role="334zOT" node="3f_3Ja8qCws" resolve="Paprika" />
+          <node concept="334Q9s" id="3XOg$MBbMeI" role="334zOZ">
+            <property role="334zRy" value="35" />
+            <property role="334zRG" value="1.0" />
+            <property role="334zRD" value="6.0" />
+            <property role="334zRl" value="0.3" />
+            <property role="TrG5h" value="Paprika" />
+            <property role="334zRg" value="BASIC" />
+            <property role="334zRu" value="DOUBLE" />
+          </node>
+        </node>
+        <node concept="334Q9t" id="3XOg$MBbMeK" role="334zOU">
+          <property role="334zOO" value="45" />
+          <ref role="334zOT" node="6T5br9ALmsa" resolve="Karotte" />
+          <node concept="334Q9s" id="3XOg$MBbMf0" role="334zOZ">
+            <property role="334zRy" value="0.0" />
+            <property role="334zRG" value="0.0" />
+            <property role="334zRD" value="0.0" />
+            <property role="334zRl" value="0.0" />
+            <property role="TrG5h" value="Karotte" />
+          </node>
+        </node>
+        <node concept="334Q9t" id="3XOg$MBbMf2" role="334zOU">
+          <property role="334zOO" value="40" />
+          <ref role="334zOT" node="6fzdkAS2iLN" resolve="Schinken" />
+          <node concept="334Q9s" id="3XOg$MBbMfk" role="334zOZ">
+            <property role="334zRy" value="187.0" />
+            <property role="334zRG" value="14.8" />
+            <property role="334zRD" value="0.9" />
+            <property role="334zRl" value="14" />
+            <property role="TrG5h" value="Schinken" />
+            <property role="334zRg" value="SOUR" />
+            <property role="334zRu" value="SINGLE" />
+          </node>
+        </node>
+        <node concept="334Q9t" id="3XOg$MBbMfm" role="334zOU">
+          <property role="334zOO" value="33" />
+          <ref role="334zOT" node="6fzdkAS2iPq" resolve="Knäckebrot" />
+          <node concept="334Q9q" id="3XOg$MBbMfE" role="334zOZ">
+            <property role="TrG5h" value="Knäckebrot" />
+            <node concept="334Q97" id="3XOg$MBbMfF" role="334zR8">
+              <property role="334zR7" value="240" />
+              <ref role="334zRe" node="6T5br9ALmtS" resolve="Dinkelvollkornmehl" />
+            </node>
+            <node concept="334Q97" id="3XOg$MBbMfG" role="334zR8">
+              <property role="334zR7" value="200" />
+              <ref role="334zRe" node="6T5br9ALmvx" resolve="Sonnenblumenkern" />
+            </node>
+            <node concept="334Q97" id="3XOg$MBbMfH" role="334zR8">
+              <property role="334zR7" value="100" />
+              <ref role="334zRe" node="6T5br9ALmvj" resolve="Kürbiskern" />
+            </node>
+            <node concept="334Q97" id="3XOg$MBbMfI" role="334zR8">
+              <property role="334zR7" value="100" />
+              <ref role="334zRe" node="6T5br9ALmv7" resolve="Leinsamen" />
+            </node>
+          </node>
+        </node>
+        <node concept="334Q9t" id="3XOg$MBbMh3" role="334zOU">
+          <property role="334zOO" value="155" />
+          <ref role="334zOT" node="3XOg$MBbMfP" resolve="Quark, mediterran" />
+          <node concept="334Q9q" id="3XOg$MBbMht" role="334zOZ">
+            <property role="TrG5h" value="Quark, mediterran" />
+            <node concept="334Q97" id="3XOg$MBbMhu" role="334zR8">
+              <property role="334zR7" value="250" />
+              <ref role="334zRe" node="6T5br9ALmwy" resolve="Quark " />
+            </node>
+            <node concept="334Q97" id="3XOg$MBbMhv" role="334zR8">
+              <property role="334zR7" value="70" />
+              <ref role="334zRe" node="3XOg$MBbMg0" resolve="Ajvar (Dittmann)" />
+            </node>
+            <node concept="334Q97" id="3XOg$MBbMhw" role="334zR8">
+              <property role="334zR7" value="20" />
+              <ref role="334zRe" node="3XOg$MBbMgk" resolve="Tomate, getrocknet" />
+            </node>
+          </node>
+        </node>
+        <node concept="334Q9t" id="3XOg$MBbMhU" role="334zOU">
+          <property role="334zOO" value="114" />
+          <ref role="334zOT" node="3XOg$MBbMhJ" resolve="Brot" />
+          <node concept="334Q9s" id="3XOg$MBbMnK" role="334zOZ">
+            <property role="334zRy" value="222" />
+            <property role="334zRG" value="6.7" />
+            <property role="334zRD" value="44.4" />
+            <property role="334zRl" value="2.2" />
+            <property role="TrG5h" value="Brot" />
+            <property role="334zRg" value="SOUR" />
+            <property role="334zRu" value="SINGLE" />
+          </node>
+        </node>
+        <node concept="334Q9t" id="3XOg$MBbMiR" role="334zOU">
+          <property role="334zOO" value="240" />
+          <ref role="334zOT" node="3XOg$MBbMis" resolve="Hühnersuppe" />
+          <node concept="334Q9q" id="3XOg$MBbMjo" role="334zOZ">
+            <property role="TrG5h" value="Hühnersuppe" />
+            <node concept="334Q97" id="3XOg$MBbMjp" role="334zR8">
+              <property role="334zR7" value="300" />
+              <ref role="334zRe" node="6T5br9ALmsa" resolve="Karotte" />
+            </node>
+            <node concept="334Q97" id="3XOg$MBbMjq" role="334zR8">
+              <property role="334zR7" value="300" />
+              <ref role="334zRe" node="6T5br9ALmsU" resolve="Sellerie" />
+            </node>
+            <node concept="334Q97" id="3XOg$MBbMjr" role="334zR8">
+              <property role="334zR7" value="4000" />
+              <ref role="334zRe" node="4BIrG1CPHpB" resolve="Wasser" />
+            </node>
+            <node concept="334Q97" id="3XOg$MBbMjs" role="334zR8">
+              <property role="334zR7" value="600" />
+              <ref role="334zRe" node="3XOg$MBbMiL" resolve="Suppenhuhn" />
+            </node>
+          </node>
+        </node>
+        <node concept="334Q9t" id="3XOg$MBbMjY" role="334zOU">
+          <property role="334zOO" value="11" />
+          <ref role="334zOT" node="6fzdkAS2iLN" resolve="Schinken" />
+          <node concept="334Q9s" id="3XOg$MBbMk_" role="334zOZ">
+            <property role="334zRy" value="187.0" />
+            <property role="334zRG" value="14.8" />
+            <property role="334zRD" value="0.9" />
+            <property role="334zRl" value="14" />
+            <property role="TrG5h" value="Schinken" />
+            <property role="334zRg" value="SOUR" />
+            <property role="334zRu" value="SINGLE" />
+          </node>
+        </node>
+        <node concept="334Q9t" id="3XOg$MBbMkB" role="334zOU">
+          <property role="334zOO" value="18" />
+          <ref role="334zOT" node="SCalNocbFH" resolve="Limburger" />
+          <node concept="334Q9s" id="3XOg$MBbMlg" role="334zOZ">
+            <property role="334zRy" value="270" />
+            <property role="334zRG" value="23" />
+            <property role="334zRD" value="0.0" />
+            <property role="334zRl" value="19.7" />
+            <property role="TrG5h" value="Limburger" />
+            <property role="334zRg" value="SOUR" />
+          </node>
+        </node>
+        <node concept="334Q9t" id="3XOg$MBbMli" role="334zOU">
+          <property role="334zOO" value="123" />
+          <ref role="334zOT" node="3XOg$MBbMjC" resolve="Gelünge" />
+          <node concept="334Q9s" id="3XOg$MBbMlX" role="334zOZ">
+            <property role="334zRy" value="33" />
+            <property role="334zRG" value="9.4" />
+            <property role="334zRD" value="3.2" />
+            <property role="334zRl" value="4.1" />
+            <property role="TrG5h" value="Gelünge" />
+            <property role="334zRg" value="SOUR" />
+            <property role="334zRu" value="SINGLE" />
+          </node>
+        </node>
+        <node concept="334Q9t" id="3XOg$MBbMlZ" role="334zOU">
+          <property role="334zOO" value="12" />
+          <ref role="334zOT" node="3XOg$MBbMjQ" resolve="Forellenpaste" />
+          <node concept="334Q9s" id="3XOg$MBbMmG" role="334zOZ">
+            <property role="334zRy" value="214" />
+            <property role="334zRG" value="9.9" />
+            <property role="334zRD" value="2.4" />
+            <property role="334zRl" value="18.5" />
+            <property role="TrG5h" value="Forellenpaste" />
+            <property role="334zRg" value="SOUR" />
+            <property role="334zRu" value="SINGLE" />
+          </node>
+        </node>
+        <node concept="334Q9t" id="3XOg$MBbMmZ" role="334zOU">
+          <property role="334zOO" value="104" />
+          <ref role="334zOT" node="3XOg$MBbMmQ" resolve="Keks Soft Baked (Sondey)" />
+          <node concept="334Q9s" id="3XOg$MBbMnI" role="334zOZ">
+            <property role="334zRy" value="473" />
+            <property role="334zRG" value="5.4" />
+            <property role="334zRD" value="61.3" />
+            <property role="334zRl" value="23.2" />
+            <property role="TrG5h" value="Keks Soft Baked (Sondey)" />
+            <property role="334zRg" value="SOUR" />
+          </node>
+        </node>
+      </node>
     </node>
   </node>
   <node concept="WkIoy" id="6T5br9AMB0b">
@@ -1399,12 +2027,24 @@
             <property role="334zRg" value="SOUR" />
           </node>
         </node>
+        <node concept="334Q9t" id="3XOg$MBftLA" role="334zOU">
+          <property role="334zOO" value="10" />
+          <ref role="334zOT" node="3XOg$MBbMg0" resolve="Ajvar (Dittmann)" />
+          <node concept="334Q9s" id="3XOg$MBftLW" role="334zOZ">
+            <property role="334zRy" value="78" />
+            <property role="334zRG" value="1.2" />
+            <property role="334zRD" value="9.7" />
+            <property role="334zRl" value="4.5" />
+            <property role="TrG5h" value="Ajvar (Dittmann)" />
+            <property role="334zRg" value="NEUTRAL" />
+          </node>
+        </node>
       </node>
     </node>
   </node>
   <node concept="334Q9W" id="6T5br9AMHdo">
     <property role="3GE5qa" value="atomic" />
-    <property role="TrG5h" value="Fleisch" />
+    <property role="TrG5h" value="Fleisch/Fisch" />
     <node concept="334Q9s" id="6T5br9AMHdp" role="334zRa">
       <property role="334zRy" value="169" />
       <property role="334zRG" value="20.5" />
@@ -1429,6 +2069,33 @@
       <property role="334zRD" value="0.9" />
       <property role="334zRl" value="14" />
       <property role="TrG5h" value="Schinken" />
+      <property role="334zRg" value="SOUR" />
+      <property role="334zRu" value="SINGLE" />
+    </node>
+    <node concept="334Q9s" id="3XOg$MBbMiL" role="334zRa">
+      <property role="334zRy" value="161" />
+      <property role="334zRG" value="20.4" />
+      <property role="334zRD" value="3.8" />
+      <property role="334zRl" value="8.8" />
+      <property role="TrG5h" value="Suppenhuhn" />
+      <property role="334zRg" value="SOUR" />
+      <property role="334zRu" value="SINGLE" />
+    </node>
+    <node concept="334Q9s" id="3XOg$MBbMjC" role="334zRa">
+      <property role="334zRy" value="33" />
+      <property role="334zRG" value="9.4" />
+      <property role="334zRD" value="3.2" />
+      <property role="334zRl" value="4.1" />
+      <property role="TrG5h" value="Gelünge" />
+      <property role="334zRg" value="SOUR" />
+      <property role="334zRu" value="SINGLE" />
+    </node>
+    <node concept="334Q9s" id="3XOg$MBbMjQ" role="334zRa">
+      <property role="334zRy" value="214" />
+      <property role="334zRG" value="9.9" />
+      <property role="334zRD" value="2.4" />
+      <property role="334zRl" value="18.5" />
+      <property role="TrG5h" value="Forellenpaste" />
       <property role="334zRg" value="SOUR" />
       <property role="334zRu" value="SINGLE" />
     </node>
@@ -1597,6 +2264,105 @@
       <node concept="334Q97" id="6fzdkAS2iP_" role="334zR8">
         <property role="334zR7" value="100" />
         <ref role="334zRe" node="6T5br9ALmv7" resolve="Leinsamen" />
+      </node>
+    </node>
+  </node>
+  <node concept="334Q9W" id="SCalNocbH7">
+    <property role="3GE5qa" value="composite" />
+    <property role="TrG5h" value="Temporär_08_02" />
+    <node concept="334Q9q" id="SCalNocbHa" role="334zRa">
+      <property role="TrG5h" value="Gemüsesuppe" />
+      <node concept="334Q97" id="SCalNocbHc" role="334zR8">
+        <property role="334zR7" value="3000" />
+        <ref role="334zRe" node="4BIrG1CPHpB" resolve="Wasser" />
+      </node>
+      <node concept="334Q97" id="SCalNocbHe" role="334zR8">
+        <property role="334zR7" value="300" />
+        <ref role="334zRe" node="3f_3Ja8qCva" resolve="Brokkoli, gekocht" />
+      </node>
+      <node concept="334Q97" id="SCalNocbHG" role="334zR8">
+        <property role="334zR7" value="300" />
+        <ref role="334zRe" node="SCalNocbHu" resolve="Blumenkohl, gekocht" />
+      </node>
+      <node concept="334Q97" id="SCalNocbHK" role="334zR8">
+        <property role="334zR7" value="300" />
+        <ref role="334zRe" node="3f_3Ja8qCwO" resolve="Bohne, grün, gekocht" />
+      </node>
+      <node concept="334Q97" id="SCalNocbHP" role="334zR8">
+        <property role="334zR7" value="200" />
+        <ref role="334zRe" node="6T5br9ALmrx" resolve="Kartoffel" />
+      </node>
+    </node>
+  </node>
+  <node concept="334Q9W" id="3XOg$MBbMfO">
+    <property role="3GE5qa" value="composite" />
+    <property role="TrG5h" value="Dips/Aufstriche/Soßen" />
+    <node concept="334Q9q" id="3XOg$MBbMfP" role="334zRa">
+      <property role="TrG5h" value="Quark, mediterran" />
+      <node concept="334Q97" id="3XOg$MBbMfR" role="334zR8">
+        <property role="334zR7" value="250" />
+        <ref role="334zRe" node="6T5br9ALmwy" resolve="Quark " />
+      </node>
+      <node concept="334Q97" id="3XOg$MBbMg3" role="334zR8">
+        <property role="334zR7" value="70" />
+        <ref role="334zRe" node="3XOg$MBbMg0" resolve="Ajvar (Dittmann)" />
+      </node>
+      <node concept="334Q97" id="3XOg$MBbMgZ" role="334zR8">
+        <property role="334zR7" value="20" />
+        <ref role="334zRe" node="3XOg$MBbMgk" resolve="Tomate, getrocknet" />
+      </node>
+    </node>
+  </node>
+  <node concept="334Q9W" id="3XOg$MBbMfT">
+    <property role="3GE5qa" value="atomic" />
+    <property role="TrG5h" value="Konserven" />
+    <node concept="334Q9s" id="3XOg$MBbMg0" role="334zRa">
+      <property role="334zRy" value="78" />
+      <property role="334zRG" value="1.2" />
+      <property role="334zRD" value="9.7" />
+      <property role="334zRl" value="4.5" />
+      <property role="TrG5h" value="Ajvar (Dittmann)" />
+      <property role="334zRg" value="NEUTRAL" />
+    </node>
+  </node>
+  <node concept="334Q9W" id="3XOg$MBbMir">
+    <property role="3GE5qa" value="composite" />
+    <property role="TrG5h" value="Suppen/Eintöpfe" />
+    <node concept="334Q9q" id="3XOg$MBbMis" role="334zRa">
+      <property role="TrG5h" value="Hühnersuppe" />
+      <node concept="334Q97" id="3XOg$MBbMiu" role="334zR8">
+        <property role="334zR7" value="300" />
+        <ref role="334zRe" node="6T5br9ALmsa" resolve="Karotte" />
+      </node>
+      <node concept="334Q97" id="3XOg$MBbMiw" role="334zR8">
+        <property role="334zR7" value="300" />
+        <ref role="334zRe" node="6T5br9ALmsU" resolve="Sellerie" />
+      </node>
+      <node concept="334Q97" id="3XOg$MBbMiz" role="334zR8">
+        <property role="334zR7" value="4000" />
+        <ref role="334zRe" node="4BIrG1CPHpB" resolve="Wasser" />
+      </node>
+      <node concept="334Q97" id="3XOg$MBbMiB" role="334zR8">
+        <property role="334zR7" value="600" />
+        <ref role="334zRe" node="3XOg$MBbMiL" resolve="Suppenhuhn" />
+      </node>
+    </node>
+  </node>
+  <node concept="334Q9W" id="3XOg$MBbMpg">
+    <property role="3GE5qa" value="users" />
+    <property role="TrG5h" value="test" />
+    <node concept="334Q9q" id="3XOg$MBbMph" role="334zRa">
+      <property role="TrG5h" value="testgurke" />
+      <node concept="334Q97" id="3XOg$MBbMpq" role="334zR8">
+        <property role="334zR7" value="1000" />
+        <ref role="334zRe" node="6T5br9ALmsC" resolve="Gurke" />
+      </node>
+    </node>
+    <node concept="334Q9q" id="3XOg$MBbMpm" role="334zRa">
+      <property role="TrG5h" value="testbrot" />
+      <node concept="334Q97" id="3XOg$MBbMps" role="334zR8">
+        <property role="334zR7" value="1000" />
+        <ref role="334zRe" node="3XOg$MBbMhJ" resolve="Brot" />
       </node>
     </node>
   </node>
