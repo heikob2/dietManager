@@ -24,6 +24,7 @@
       </concept>
       <concept id="1169125787135" name="jetbrains.mps.lang.structure.structure.AbstractConceptDeclaration" flags="ig" index="PkWjJ">
         <property id="6714410169261853888" name="conceptId" index="EcuMT" />
+        <property id="5092175715804935370" name="conceptAlias" index="34LRSv" />
         <child id="1071489727083" name="linkDeclaration" index="1TKVEi" />
         <child id="1071489727084" name="propertyDeclaration" index="1TKVEl" />
       </concept>
@@ -176,6 +177,7 @@
     <property role="EcuMT" value="2439801690066028775" />
     <property role="TrG5h" value="DailyFoodPlan" />
     <property role="3GE5qa" value="management" />
+    <property role="34LRSv" value="daily" />
     <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
     <node concept="1TJgyj" id="27rUFnyMtuf" role="1TKVEi">
       <property role="IQ2ns" value="2439801690066114447" />
@@ -222,6 +224,7 @@
     <property role="EcuMT" value="2439801690066028777" />
     <property role="TrG5h" value="AtomicReciepe" />
     <property role="3GE5qa" value="reciepe" />
+    <property role="34LRSv" value="atomic" />
     <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
     <node concept="PrWs8" id="27rUFnyM8zH" role="PzmwI">
       <ref role="PrY4T" node="27rUFnyM8zE" resolve="Reciepe" />
@@ -279,6 +282,7 @@
     <property role="EcuMT" value="2439801690066028783" />
     <property role="TrG5h" value="CompositeReciepe" />
     <property role="3GE5qa" value="reciepe" />
+    <property role="34LRSv" value="composite" />
     <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
     <node concept="PrWs8" id="27rUFnyM8zK" role="PzmwI">
       <ref role="PrY4T" node="27rUFnyM8zE" resolve="Reciepe" />
