@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <root nodeRef="r:71d928c7-0b82-4241-b3d9-c993fa46e65e(DietManager.build)/5249821971831705879">
+    <file name="DietManager.xml">
+      <unit id="5249821971831705879" at="1,0,417,10" name="DietManager.build.DietManager" />
+    </file>
+  </root>
+  <root nodeRef="r:71d928c7-0b82-4241-b3d9-c993fa46e65e(DietManager.build)/5249821971831706011">
+    <file name="DietManagerDistribution.xml">
+      <unit id="5249821971831706011" at="1,0,139,10" name="DietManager.build.DietManagerDistribution" />
+    </file>
+  </root>
+</debug-info>
+
